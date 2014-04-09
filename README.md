@@ -6,8 +6,8 @@ Okhtay Azar's Bookmarks
 + My photography ([flickr](https://www.flickr.com/photos/oxtay/))
 + [Just for fun] (https://github.com/Oxtay/links/blob/master/just_for_fun.md)
 + [Engineer]()
-+ [Learner]
-+ [Developer]
-+ [Organizer]
-+ [Traveler]
-+ [Cook]
++ [Learner]()
++ [Developer]()
++ [Organizer]()
++ [Traveler]()
++ [Cook]()
